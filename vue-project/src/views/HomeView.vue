@@ -2,15 +2,13 @@
 <div class="home">
 </div>
 </template>
-<script>
-export default{
-    name: "Home",
-    components: {},
-};
-</script>
 <style>
 </style>
-<script></script>
+<script>
+import { defineAsyncComponent } from 'vue';
+import 
+export default{
+name: "Home",
 selected:"",
 menu: [
 {
@@ -90,7 +88,8 @@ menu: [
     img: "https://healthyfitnessmeals.com/wp-content/uploads/2018/01/berry-fruit-salad-5.jpg",
     type: "fruit",
 },
-];
+];}
+</script>
 
 
 
