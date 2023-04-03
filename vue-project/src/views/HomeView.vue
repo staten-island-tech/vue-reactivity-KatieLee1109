@@ -10,13 +10,11 @@ import
 export default{
 name: "Home",
 selected:"",
-menu: [
+alblums: [
 {
-    name: "Caprese Pizza",
-    info: "Includes Mozzarella Cheese with fresh basil and fresh tomato",
-    price: 25,
-    img: "https://cdn.loveandlemons.com/wp-content/uploads/2019/09/margherita-pizza.jpg",
-    type: "pizza",
+    title: "The Chaos Chapter",
+    artist: "TXT",
+    
 },
 {
     name: "Pepperoni Pizza",
