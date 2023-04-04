@@ -19,64 +19,100 @@ export default {
     return{
         products: [
         {
-          name: "Twicetagram",
-          artist: "Twice",
-          price: "$15.50",
-          img: "https://upload.wikimedia.org/wikipedia/en/e/eb/Twicetagram_album_cover.png"
+          name: "Rare",
+          artist: "Selena Gomez",
+          price: "$25.50",
+          img: "https://upload.wikimedia.org/wikipedia/en/d/d1/Selena_Gomez_-_Rare.png"
         },
         {
-          name: "Merry and Happy",
-          artist: "Twice",
+          name: "Sweetener",
+          artist: "Ariana Grande",
           price: "$16.00",
-          img: "https://upload.wikimedia.org/wikipedia/en/b/b8/Twice-Merry_%26_Happy_%28album_cover%29.jpg"
+          img: "https://upload.wikimedia.org/wikipedia/en/7/7a/Sweetener_album_cover.png"
         },
         {
-          name: "Map of the Soul: 7",
-          artist: "BTS",
+          name: "Thank U, Next",
+          artist: "Ariana Grande",
           price: "$18.00",
-          img: "https://upload.wikimedia.org/wikipedia/en/2/21/BTS_-_Map_of_the_Soul_7.png",
+          img: "https://upload.wikimedia.org/wikipedia/en/b/b2/Ariana_Grande_Thank_U_Next.png",
         },
         {
-          name: "Love Yourself: Tear",
-          artist: "BTS",
+          name: "Divide",
+          artist: "Ed Sheeran",
           price: "$19.00",
-          img: "https://upload.wikimedia.org/wikipedia/en/8/88/Love_Yourself_Tear_Cover.jpeg",
+          img: "https://upload.wikimedia.org/wikipedia/en/4/45/Divide_cover.png",
         },
         {
-          name: "The Most Beautiful Moment in Life: Young Forever",
-          artist: "BTS",
+          name: "=",
+          artist: "Ed Sheeran",
           price: "$19.00",
-          img: "https://upload.wikimedia.org/wikipedia/en/b/b4/The_Most_Beautiful_Moment_In_Life%2C_Young_Forever.jpeg",
+          img: "https://upload.wikimedia.org/wikipedia/en/c/cd/Ed_Sheeran_-_Equals.png",
         },
         {
-          name: "Love Yourself: Answer",
-          artist: "BTS",
+          name: "Doo-Wops & Hooligans",
+          artist: "Bruno Mars",
           price: "$19.00",
-          img: "https://upload.wikimedia.org/wikipedia/en/e/e2/BTS%2C_Love_Yourself_Answer%2C_album_cover.jpg",
+          img: "https://upload.wikimedia.org/wikipedia/en/e/eb/Bruno_Mars_-_Doo-Wops_%26_Hooligans.png",
         },
         {
-          name: "Go Live",
-          artist: "Stray Kids",
+          name: "Unorthodox Jukebox",
+          artist: "Bruno Mars",
           price: "$20.00",
-          img: "https://upload.wikimedia.org/wikipedia/en/2/2b/Stray_Kids_-_Go_Live.png"
+          img: "https://upload.wikimedia.org/wikipedia/en/7/77/BrunoMarsUJAlbumCover.png"
         },
         {
-          name: "Into The New World",
-          artist: "Girls' Generation",
+          name: "Joanne",
+          artist: "Lady Gaga",
           price: "$25.00",
-          img: "https://upload.wikimedia.org/wikipedia/en/1/12/Intothenewworldtour.jpg"
+          img: "https://upload.wikimedia.org/wikipedia/en/f/fd/Lady_Gaga_-_Joanne_%28Official_Album_Cover%29.png"
         },
         {
-        name: "The Sound",
-        artist: "Stray Kids",
+        name: "A Star Is Born",
+        artist: "Lady Gaga",
         price: "$21.00",
-        img: "https://upload.wikimedia.org/wikipedia/en/8/8f/Stray_Kids_-_The_Sound.png"
+        img: "https://upload.wikimedia.org/wikipedia/en/e/e0/A_Star_Is_Born_%282018_soundtrack%29.png"
         },
         {
-          name: "Oddinary",
-          artist: "Stray Kids",
+          name: "Harry's House",
+          artist: "Harry Styles",
           price: "$30.00",
-          img: "https://upload.wikimedia.org/wikipedia/en/4/45/Stray_Kids_-_Oddinary.jpeg"
+          img: "https://upload.wikimedia.org/wikipedia/en/d/d5/Harry_Styles_-_Harry%27s_House.png"
+        },
+        {
+          name: "Midnights",
+          artist: "Taylor Swift",
+          price: "$30.00",
+          img: "https://upload.wikimedia.org/wikipedia/en/9/9f/Midnights_-_Taylor_Swift.png"
+        },
+        {
+          name: "Lover",
+          artist: "Taylor Swift",
+          price: "$35.00",
+          img: "https://upload.wikimedia.org/wikipedia/en/c/cd/Taylor_Swift_-_Lover.png"
+        },
+        {
+          name: "Reputation",
+          artist: "Taylor Swift",
+          price: "$30.00",
+          img: "https://upload.wikimedia.org/wikipedia/en/f/f2/Taylor_Swift_-_Reputation.png"
+        },
+        {
+          name: "Fearless",
+          artist: "Taylor Swift",
+          price: "$28.00",
+          img: "https://upload.wikimedia.org/wikipedia/en/8/86/Taylor_Swift_-_Fearless.png"
+        },
+        {
+          name: "Folklore",
+          artist: "Taylor Swift",
+          price: "$30.00",
+          img: "https://upload.wikimedia.org/wikipedia/en/f/f8/Taylor_Swift_-_Folklore.png"
+        },
+        {
+          name: "Red- Taylor's Version",
+          artist: "Taylor Swift",
+          price: "$32.00",
+          img: "https://upload.wikimedia.org/wikipedia/en/4/47/Taylor_Swift_-_Red_%28Taylor%27s_Version%29.png"
         }
       ]
     };
